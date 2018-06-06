@@ -1,2 +1,1 @@
-# myportfolio
-its all about me
+# anedu.github.io
